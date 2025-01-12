@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital-analog-clock/static/css/main.7e33e577.css",
+    "main.js": "/digital-analog-clock/static/js/main.f13aa1d0.js",
+    "index.html": "/digital-analog-clock/index.html",
+    "main.7e33e577.css.map": "/digital-analog-clock/static/css/main.7e33e577.css.map",
+    "main.f13aa1d0.js.map": "/digital-analog-clock/static/js/main.f13aa1d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e33e577.css",
+    "static/js/main.f13aa1d0.js"
+  ]
+}
